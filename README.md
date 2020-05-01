@@ -1,2 +1,2 @@
 # PHP
-This repository conatains most of my php projects.
+This repository contains most of my php projects.
